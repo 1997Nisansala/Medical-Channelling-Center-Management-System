@@ -1,0 +1,94 @@
+.emp {
+	margin: 180px;
+	margin-left: 26.5%;
+	padding-bottom: 50px;
+	background: rgb(135, 139, 134);
+	border: 2px groove (internal value);
+	border-radius: 20px;
+	line-height: 7px;
+	font-size: 18px;
+	width: 50%; 	
+	border-color: rgb(135, 139, 134);
+}
+
+
+legend{
+	font-size: 20px;
+}
+
+
+fieldset{
+	padding-left: 50px;
+	padding-right: 50px;
+	display: block;
+	border: 2px groove (internal value);
+	border-radius: 20px;
+	line-height: 14px;
+	font-size: 18px;
+	width: 100%;
+}
+
+.text-line{
+	background-color: transparent;
+	color: #000000;
+	outline: none;
+	outline-style: none;
+	border: none;
+	border-bottom: solid #615d5d 1px;
+	padding: 10px ;
+	font-size: 14px;
+	font-weight: normal;
+	width: 100%
+}
+
+.left{
+	padding-top: 130px;
+	float: left;
+	height: 100%;
+	width: 68%;
+	padding-left: 12%;
+}
+
+.right{
+	padding-top: 250px;
+	float: right;
+	height: 100%;
+	width: 20%; 
+}
+
+.vacant{
+	background-color: gray;
+	width: 80%;
+}
+
+.vacantData{
+	font-weight: normal;
+}
+
+.heading{
+	font-size: bold;
+	text-decoration: underline; 
+}
+
+td{
+	text-align: left;
+}
+table{
+	width: 100%;
+}
+
+.site-btn1 {
+	display: inline-block;
+	border: none;
+	font-size: 14px;
+	font-weight: 400;
+	color: #fff;
+	min-width: 90px;
+	padding: 8px 16px;
+	border-radius: 0px;
+	background-color: #2d2e2d;
+	cursor: pointer;
+	text-align: center;
+	margin-left: 40%;
+	margin-bottom: 0%;
+}

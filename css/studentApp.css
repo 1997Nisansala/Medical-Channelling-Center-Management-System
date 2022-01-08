@@ -1,0 +1,63 @@
+.text-line{
+	background-color: transparent;
+	color: #000000;
+	outline: none;
+	outline-style: none;
+	border: none;
+	border-bottom: solid #615d5d 1px;
+	padding: 10px ;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.formst input[type=text]{
+	width: 88.5%;
+}
+
+.formst input[type=text].text-line.regno{
+	width: 50%;
+}
+
+fieldset{
+	padding-left: 4.5%;
+	display: block;
+	border: 2px groove (internal value);
+	border-radius: 20px;
+	line-height: 7px;
+	font-size: 18px; 	
+	border-color: #eeeeee;
+	margin-left: 27%;
+	width: 46%;
+	background-color: #aab8a6;
+}
+
+.formst .site-btn.sb-c2{
+	margin-top: 20px;
+	background-color: #2d2e2d;
+}
+
+.formst input[type=submit]:hover,.formst input[type=submit]:active,.formst input[type=submit]:focus {
+	background: rgb(64, 78, 64);
+	color:#000000;
+  }
+
+.formst detail {
+	color: #1f1c1c;
+}
+
+.formst select { 
+	background-color: #b1aaaa;
+	color: #1f1c1c;
+}
+
+.formst{
+	padding-top: 180px;
+	background: rgb(135, 139, 134);
+}
+
+.formst .title {
+	padding: 12px 0;
+	color: #1e0c38;
+	font-size: 24px;
+	font-weight: 600;
+}
